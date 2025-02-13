@@ -39,6 +39,15 @@ Run radar !
 ./my_radar -h
 ```
 
+```bash
+./my_radar tests/
+```
+
+Example of simulation with 5000 planes and 35 towers.
+```bash
+./my_radar tests/5000_planes_35_towers.rdr
+```
+
 ---
 
 Epitech students, beware of -42 !
