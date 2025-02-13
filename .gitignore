@@ -1,2 +1,3 @@
 my_radar
 *.o
+libmy.a
