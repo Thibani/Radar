@@ -6,6 +6,9 @@
   Radar is a plane simulator in C using CSFML API<br>
 </p>
 
+![Screenshot](assets/preview2.png)
+![Screenshot](assets/preview1.png)
+
 ---
 
 ## Prerequisite
